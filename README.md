@@ -13,4 +13,3 @@
   <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=Javascript&logoColor=white"/>
 </h1>
 
-![leemonta9482's GitHub stats](https://github-readme-stats.vercel.app/api?username=leemonta9482&show_icons=true&theme=radical)
