@@ -13,5 +13,6 @@
   <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=Javascript&logoColor=white"/>
 </h1>
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=leemonta9482&show_icons=true&hide_border=true)](https://github.com/leemonta9482)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leemonta9482&layout=compact)](https://github.com/leemonta9482)
+[![github stats](https://github-readme-stats.vercel.app/api?username=leemonta9482&show_icons=true&hide_border=true&theme=dracula)](https://github.com/leemonta9482)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leemonta9482&layout=compact&theme=dracula)](https://github.com/leemonta9482)
