@@ -1,10 +1,9 @@
 <h4 align="center"><img src="https://capsule-render.vercel.app/api?type=Waving&height=250&section=header&fontSize=90&fontColor=FFF2FC&text=welcome" /></h4>
 
 <h4 align="center">안녕하세요 성장중인 개발자 이우진입니다. </h4>
-<ul align="center">
+<ul list-style-type:none>
   <li>
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleemonta9482&count_bg=%237B66AC&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=false"/></a>
-    
   </li>
   <li>
     <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=Python&logoColor=white"/>
@@ -27,3 +26,4 @@
 </ul>
 
 ![leemonta9482's GitHub stats](https://github-readme-stats.vercel.app/api?username=leemonta9482&show_icons=true&theme=radical)
+[![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leemonta9482&layout=compact)](https://github.com/leemonta9482)
