@@ -27,5 +27,3 @@
 </ul>
 
 ![leemonta9482's GitHub stats](https://github-readme-stats.vercel.app/api?username=leemonta9482&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leemonta9482&layout=compact)](https://github.com/leemonta9482/github-readme-stats)
