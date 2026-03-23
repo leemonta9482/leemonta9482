@@ -4,12 +4,12 @@
 
 <p align="center">
   <strong>Hi, I'm WooJin.</strong><br />
-  Python · Java · Spring · SQL · Web
+  Python · Java · Spring · SQL · Web <br />
   풀스텍 개발자를 목표로 합니다.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=520&lines=Python+%7C+Java+%7C+Spring+%7C+SQL" alt="Python | Java | Spring | SQL" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=520&lines=Python+%7C+Java+%7C+Spring+%7C+SQL" alt="Python | Java | Spring | SQL | Web" />
 </p>
 
 <br />
