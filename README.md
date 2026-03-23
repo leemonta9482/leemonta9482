@@ -3,8 +3,9 @@
 </h4>
 
 <p align="center">
-  <strong>Hi, I'm Woo Jin.</strong><br />
-  Python · Java · Spring · SQL로 백엔드와 데이터를 공부하고 있어요.
+  <strong>Hi, I'm WooJin.</strong><br />
+  Python · Java · Spring · SQL · Web
+  풀스텍 개발자를 목표로 합니다.
 </p>
 
 <p align="center">
